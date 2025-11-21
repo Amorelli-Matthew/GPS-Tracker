@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "esp_littlefs.h": "c",
+        "gpsdriver.h": "c"
+    },
+    "idf.portWin": "COM3",
+    "idf.flashType": "UART"
+}
